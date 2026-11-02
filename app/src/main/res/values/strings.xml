@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VaultDraft</string>
+    <string name="widget_description">Quick capture into your Obsidian vault</string>
+</resources>
